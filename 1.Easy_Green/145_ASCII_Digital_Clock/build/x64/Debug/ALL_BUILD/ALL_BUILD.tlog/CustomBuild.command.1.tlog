@@ -1,0 +1,10 @@
+^C:\USERS\VITTO\ONEDRIVE\DESKTOP\CODING\PROJECTS\C-C++\PROGRAMMINGCHALLENGES\1.EASY_GREEN\145_ASCII_DIGITAL_CLOCK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vitto/OneDrive/Desktop/Coding/Projects/C-C++/ProgrammingChallenges/1.Easy_Green/145_ASCII_Digital_Clock -BC:/Users/vitto/OneDrive/Desktop/Coding/Projects/C-C++/ProgrammingChallenges/1.Easy_Green/145_ASCII_Digital_Clock/build --check-stamp-file C:/Users/vitto/OneDrive/Desktop/Coding/Projects/C-C++/ProgrammingChallenges/1.Easy_Green/145_ASCII_Digital_Clock/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
