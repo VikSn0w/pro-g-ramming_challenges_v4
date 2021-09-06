@@ -1,3 +1,0 @@
-C:/Users/vitto/OneDrive/Desktop/Coding/Projects/C-C++/ProgrammingChallenges/1.Easy_Green/145_ASCII_Digital_Clock/build/CMakeFiles/ADC.dir
-C:/Users/vitto/OneDrive/Desktop/Coding/Projects/C-C++/ProgrammingChallenges/1.Easy_Green/145_ASCII_Digital_Clock/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/vitto/OneDrive/Desktop/Coding/Projects/C-C++/ProgrammingChallenges/1.Easy_Green/145_ASCII_Digital_Clock/build/CMakeFiles/ZERO_CHECK.dir

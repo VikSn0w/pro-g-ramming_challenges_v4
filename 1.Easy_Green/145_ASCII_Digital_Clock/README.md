@@ -1,3 +1,3 @@
-# 66: Text to Hexadecimal/binary
+# 145: ASCII Digital Clcok
 
-Converts a given string to Hexadecimal/binary
+Shows a Digital Clock with ASCII Characters
